@@ -2,7 +2,7 @@ sbtPlugin := true
 
 version := "1.7-SNAPSHOT"
 
-organization := "sean8223"
+organization := "kty1965"
 
 name := "jooq-sbt-plugin"
 
