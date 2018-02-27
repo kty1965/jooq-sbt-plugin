@@ -1,8 +1,8 @@
 sbtPlugin := true
 
-version := "1.7-SNAPSHOT"
+version := "1.7"
 
-organization := "kty1965"
+organization := "jooq.sbt.plugin"
 
 name := "jooq-sbt-plugin"
 
