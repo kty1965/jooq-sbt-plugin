@@ -2,7 +2,7 @@ sbtPlugin := true
 
 version := "1.8"
 
-organization := "jooq.sbt.plugin"
+organization := "com.github.kty1965"
 
 name := "jooq-sbt-plugin"
 

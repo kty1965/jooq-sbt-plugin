@@ -1,4 +1,4 @@
-package jooq.sbt.plugin
+package com.github.kty1965
 
 // Copyright 2013 Sean Wellington
 //
